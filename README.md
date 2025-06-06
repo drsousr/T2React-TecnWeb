@@ -1,4 +1,7 @@
-- ( npm create vite@latest front )
-- cd front
-- npm install
-- npm run dev
+Crie uma pasta = .env
+
+dentro dela, coloque: VITE_WEATHER_API_KEY=4985d3592316448eb81184342250306
+
+no terminal/cmd coloque o seguinte comando: npm install react-router-dom
+
+Dê: npm run dev
