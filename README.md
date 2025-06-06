@@ -1,0 +1,4 @@
+- ( npm create vite@latest front )
+- cd front
+- npm install
+- npm run dev

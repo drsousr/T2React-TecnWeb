@@ -1,0 +1,72 @@
+section{
+    height: 85%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: ghostwhite;
+}
+
+main{
+    height: 80%;
+    width: 70%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.span-icons{
+    height: 90px;
+    width: 100%;
+}
+
+.WeekTitle{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+}
+
+.Wday{
+    cursor: pointer;
+    padding: 15px;
+    border: solid black 2px;
+    border-radius: 20px;
+}
+
+.Wday:hover{
+    border: solid black 2px;
+    border-radius: 20px;
+}
+
+.temperatura-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 50%;
+}
+
+.clima-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 50%;
+}
+
+.icone-temperatura {
+    height: 150px;
+}
+
+.temperatura {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.titulo-clima {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.info-clima {
+    font-size: 20px;
+}
