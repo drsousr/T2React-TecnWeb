@@ -4,8 +4,8 @@
   
 
 # 🚀 Funcionalidades Principais
-- Cadastro e Login de Usuários: Um formulário permite que novos usuários sejam adicionados com nome e email.
-- Previsão de Tempo: Mostra a previsão atual da região de Brasília e a previsão dos próximos sete dias.
+- *Cadastro e Login de Usuários*: Um formulário permite que novos usuários sejam adicionados com nome e email.
+- *Previsão de Tempo*: Mostra a previsão atual da região de Brasília e a previsão dos próximos sete dias.
 
 
 # 🛠️ Tecnologias Utilizadas
@@ -16,6 +16,8 @@
 
 
 ## Passo a Passo de Como Executar o Projeto:
+
+*Obs: É necessário criar um arquivo .env na pasta front e criar a variavel VITE_WEATHER_API_KEY tendo como valor uma chave de API do WeatherAPI (VITE_WEATHER_API_KEY="sua-chave")*
 
 Em um terminal rode:
 ```
