@@ -1,0 +1,5 @@
+- cd back
+- ( npm init -y )
+- npm install json-server
+- ( criar db.json e alterar start do package.json )
+- npx json-server db.json
